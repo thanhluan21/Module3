@@ -21,4 +21,4 @@ spec:
       database: devops-training
     persistence:
       enabled: true
-      size: 3Gi
+      size: 3Gi 
